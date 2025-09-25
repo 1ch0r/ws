@@ -100,6 +100,7 @@ Safe telemetry (telemetry_safe)
 
 Config integrity & rollback protection (config_guard)
 
+---
 ===========================================================
 📂 Project Structure
 ===========================================================
@@ -176,6 +177,10 @@ src/
 [ System Halted Safely ]
 
 ===========================================================
+
+
+---
+
 
 
 ## 🚀 Getting Started
