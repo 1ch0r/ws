@@ -102,15 +102,7 @@ Config integrity & rollback protection (config_guard)
 
 ## 📂 Project Structure
 
-src/
-├── main.c
-├── config/              # Config parsing & validation
-├── policy/              # Policy orchestration
-├── ipc/                 # Hardened IPC
-├── net/                 # Network, traffic, anonymity modules
-├── utils/               # Shared utilities
-├── include/             # Public headers
-└── Makefile
+src/ ├── main.c ├── config/ # Config parsing & validation ├── policy/ # Policy orchestration ├── ipc/ # Hardened IPC ├── net/ # Network, traffic, anonymity modules ├── utils/ # Shared utilities ├── include/ # Public headers └── Makefile
 
 # Service Flow
 
